@@ -37,8 +37,6 @@ Social support and GDP per capita were the most significant factors affecting ha
 
 #### Residual Analysis:
 Residual plots did not show any particular pattern, indicating that the model's assumptions are not violated significantly.
-Interactive Geographical Visualization:
-Employing Python libraries, an interactive heatmap was generated to visually represent Happiness Scores across different countries, offering a comprehensive global perspective.
 
 #### Recommendations:
 * Given the strong positive influence of GDP and Social support on Happiness Scores, policy makers should focus on economic policies that enhance GDP and social policies that improve the sense of community and belonging among citizens.
